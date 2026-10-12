@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/gas-station/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
 ### 💡 Tags
 Array, Greedy
 
 ### 🚀 Performance
-- **Runtime:** 0 ms
-- **Memory:** 112.4 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
