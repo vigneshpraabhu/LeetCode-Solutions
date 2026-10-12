@@ -3,7 +3,7 @@ class Solution {
        if(nums.length==1){
         return true;
        }
-        int g=nums.length,k=0;
+        int g=nums.length;
        for (int i=g-1;i>=0;i--){
         if(nums[i]+i>=g){
             g--;
